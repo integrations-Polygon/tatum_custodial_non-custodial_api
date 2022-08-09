@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@web3auth/web3auth": "^1.1.2",
+    "ethers": "^5.6.9",
+    "fortmatic": "^2.4.0",
+    "node-fetch": "2.0",
+    "properties-reader": "^2.2.0",
+    "web3": "^1.7.5"
+  }
+}
